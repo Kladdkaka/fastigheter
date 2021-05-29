@@ -1,0 +1,578 @@
+Kommun,Fastighetsbeteckning,Adress,Byggår/Värdeår,Fastighetskategori,Tomträtt,Kontor,Handel,Industri/Lager,Utbilning/Vård,Hotell,Bostad,Övrigt,Totalt,"Taxeringsvärde, Mkr"
+Finland,Espoo,Jousenpuistonkatu 2,2019,Handel,,,1266,,,,,,1266,
+Finland,Helsinki,Fredrikinkatu 47,1955,Kontor,,3669,,,,,,,3669,
+Finland,Sipoo,Gneissikaari 13,2019,Bostad,,,,,,,380,,380,
+Finland,Sipoo,Graniittitie 8,2020,Bostad,,,,,,,279,,279,
+Finland,Järvenpää,Harava 1,2018,Bostad,,,,,,,114,,114,
+Finland,Vantaa,Haravakuja 10,2018,Bostad,,,,,,,27,,27,
+Finland,Klaukkala,Isoseppäla 14,1966,Handel,,,3008,,,,,,3008,
+Finland,Vantaa,Jaspiskuja 6 B,2019,Bostad,,,,,,,61,,61,
+Finland,Vantaa,Jaspiskuja 6 C,2018,Bostad,,,,,,,67,,67,
+Finland,Vantaa,Jokiniemenkuja 7,2020,Bostad,,,,,,,81,,81,
+Finland,Kerava,Juurakkokatu 56,2017,Bostad,,,,,,,384,,384,
+Finland,Vantaa,Kaivokselantie,2020,Övrigt,,,,,,,,,,
+Finland,Vantaa,Kaivokselantie 5 C,2018,Bostad,,,,,,,122,,122,
+Finland,Vantaa,Kaivokselantie 5 L,2019,Bostad,,,,,,,2422,,2422,
+Finland,Vantaa,Kaivokselantie 5 N-M,2019,Bostad,,,,,,,298,,298,
+Finland,Espoo,Kavallinmäki 13,2019,Bostad,,,,,,,423,,423,
+Finland,Vantaa,Keimolankaarre 1 B,2020,Bostad,,,,,,,706,,706,
+Finland,Vantaa,Keimolankaarre 3,2019,Bostad,,,,,,,2153,,2153,
+Finland,Vantaa,Keltasafiirinpolku 3 C-E,2019,Bostad,,,,,,,2797,,2797,
+Finland,Vantaa,Keltasafiirinpolku 3 F-H,2019,Bostad,,,,,,,748,,748,
+Finland,Vantaa,Keltavuokontie 4,2016,Bostad,,,,,,,418,,418,
+Finland,Vantaa,Kilterinrinne 3 B,2020,Bostad,,,,,,,23,,23,
+Finland,Vantaa,Kilterinrinne 3 A,2020,Bostad,,,,,,,50,,50,
+Finland,Espoo,Klippinkitie 7,2018,Bostad,,,,,,,901,,901,
+Finland,Vantaa,Korsontie 14,2019,Bostad,,,,,,,400,,400,
+Finland,Vantaa,Kulorastaantie 3,2019,Bostad,,,,,,,390,,390,
+Finland,Vantaa,Kvartsijuonenkuja 1,2019,Bostad,,,,,,,71,,71,
+Finland,Helsinki,Kyytimiehenkatu 1,2018,Bostad,,,,,,,495,,495,
+Finland,Helsinki,Laurinniityntie 17,2016,Bostad,,,,,,,353,,353,
+Finland,Vantaa,Lincolninaukio 1,2019,Bostad,,,,,,,2515,,2515,
+Finland,Espoo,Linjaloistonkatu 3,2019,Bostad,,,,,,,297,,297,
+Finland,Vantaa,Lipstikkakuja 1,2020,Bostad,,,,,,,113,,113,
+Finland,Vantaa,Lipstikkakuja 1 A,2019,Bostad,,,,,,,147,,147,
+Finland,Vantaa,Lipstikkakuja 1 B,2020,Bostad,,,,,,,105,,105,
+Finland,Vantaa,Lipstikkakuja 8,2018,Bostad,,,,,,,118,,118,
+Finland,Helsinki,Läntinen Brahenkatu 2,1961,Hotell,,,,,,3979,,,3979,
+Finland,Vantaa,Maamiehentie 15,2017,Bostad,,,,,,,172,,172,
+Finland,Vantaa,Martinlaaksonpolku 6,2019,Bostad,,,,,,,779,,779,
+Finland,Vantaa,Martinpolku 10,2019,Bostad,,,,,,,33,,33,
+Finland,Kerava,Niinikankaantie 9,2019,Bostad,,,,,,,1160,,1160,
+Finland,Vantaa,Ohratie,2018,Bostad,,,,,,,1694,,1694,
+Finland,Espoo,Paapuuri 4,2019,Bostad,,,,,,,203,,203,
+Finland,Vantaa,Peltolantie 30,2018,Bostad,,,,,,,115,,115,
+Finland,Nurmijärvi,Pikimetsäntie 11,2018,Bostad,,,,,,,50,,50,
+Finland,Espoo,Pikkunevantie 5,2018,Bostad,,,,,,,156,,156,
+Finland,Helsinki,Radiokuja 4,2019,Bostad,,,,,,,118,,118,
+Finland,Vantaa,Rajakyläntie 34,2013,Bostad,,,,,,,320,,320,
+Finland,Vantaa,Rajatie 39,2019,Bostad,,,,,,,140,,140,
+Finland,Espoo,Reviisorinkatu 10,2019,Bostad,,,,,,,847,,847,
+Finland,Nurmijärvi,Ropakkotie 6 A,2018,Bostad,,,,,,,168,,168,
+Finland,Nurmijärvi,Ropakkotie 6 B,2018,Bostad,,,,,,,2122,,2122,
+Finland,Nurmijärvi,Ropakkotie 8 D,2018,Bostad,,,,,,,113,,113,
+Finland,Nurmijärvi,Ropakkotie 8 E,2018,Bostad,,,,,,,1099,,1099,
+Finland,Vantaa,Rubiinikehä 4 A,2020,Bostad,,,,,,,94,,94,
+Finland,Vantaa,Rubiinikehä 4 B,2020,Bostad,,,,,,,134,,134,
+Finland,Espoo,Runoratsunkatu 3,2019,Bostad,,,,,,,252,,252,
+Finland,Kirkkonummi,Rydmanintie 7 A,2020,Bostad,,,,,,,80,,80,
+Finland,Kirkkonummi,Rydmantintie 7,2020,Bostad,,,,,,,71,,71,
+Finland,Vantaa,Safiirikuja 8,2019,Bostad,,,,,,,465,,465,
+Finland,Vantaa,Sinikuja 3,2015,Bostad,,,,,,,336,,336,
+Finland,Espoo,Sotilastorpantie 1,2014,Bostad,,,,,,,500,,500,
+Finland,Vantaa,Spinellikuja 2,2020,Övrigt,,,,,,,,,,
+Finland,Vantaa,Spinellikuja 5 A,2019,Bostad,,,,,,,92,,92,
+Finland,Vantaa,Spinellikuja 5 B,2018,Bostad,,,,,,,68,,68,
+Finland,Vantaa,Spinellikuja 5 C,2019,Bostad,,,,,,,69,,69,
+Finland,Vantaa,Spinellikuja 5 D,2019,Bostad,,,,,,,124,,124,
+Finland,Vantaa,Spinellikuja 9,2019,Bostad,,,,,,,69,,69,
+Finland,Helsinki,Sulhasenkuja 3,2005,Hotell,,,,,,9734,,,9734,
+Finland,Espoo,Suviniitynkatu 4,2018,Bostad,,,,,,,579,,579,
+Finland,Porvoo,Tarkmansintie 11,2018,Bostad,,,,,,,2772,,2772,
+Finland,Kirkkonummi,Tarutie 19,2019,Bostad,,,,,,,1951,,1951,
+Finland,Sipoo,Tasbyntie 11,2018,Bostad,,,,,,,2224,,2224,
+Finland,Sipoo,Tasbyntie 18,2018,Bostad,,,,,,,1448,,1448,
+Finland,Vanda,Tikkurilantie 123,2010,Handel,,,13102,,,,,,13102,
+Finland,Nurmijärvi,Tilkankuja 3 B,2020,Bostad,,,,,,,134,,134,
+Finland,Kirkkonummi,Tolsankuja 5,2017,Bostad,,,,,,,1040,,1040,
+Finland,Vantaa,Topaasipolku 2,2020,Bostad,,,,,,,62,,62,
+Finland,Nurmijärvi,Tornitie 4–6,2018,Bostad,,,,,,,1938,,1938,
+Finland,Espoo,Tyrskyvuori 4,2007,Bostad,,,,,,,630,,630,
+Finland,Espoo,Tyyrpuuri 2,2019,Bostad,,,,,,,249,,249,
+Finland,Vantaa,Valtimotie 3 A,2018,Bostad,,,,,,,73,,73,
+Finland,Vantaa,Valtimotie 3 B,2018,Bostad,,,,,,,294,,294,
+Finland,Vantaa,Varikkokaarre 4,2019,Bostad,,,,,,,642,,642,
+Finland,Kirkkonummi,Vernerintie 12,2018,Bostad,,,,,,,1327,,1327,
+Finland,Kirkkonummi,Vernerintie 6,2019,Bostad,,,,,,,1320,,1320,
+Finland,Kirkkonummi,Vernerintie 8,2019,Bostad,,,,,,,1266,,1266,
+Finland,"SATO Oyj , flera fastigheter",,,Bostad,,,,,,,1066844,,1066844,
+Botkyrka,Freja 2,Balders väg 10,1973,Bostad,Ja,,,,,,7060,220,7280,68
+Botkyrka,Freja 3,Balders väg 1,1973,Bostad,Ja,,,,,,7167,220,7387,65
+Botkyrka,Hallunda 4:11,Iduns väg 1–16,,Övrigt,Ja,,,,,,,,,
+Botkyrka,Hallunda 4:9,Balders väg 1–16,,Övrigt,Ja,,,,,,,,,
+Botkyrka,Idun 2,Iduns väg 10,1972,Bostad,Ja,,,35,,,7060,256,7351,66
+Botkyrka,Idun 3,Iduns väg 1,1972,Bostad,Ja,,,255,,,7060,,7315,67
+Haninge,Ribby 1:531,Ribby Allé 86 B,2015,Bostad,,,,,,,3140,,3140,39
+Huddinge,Björkgården 6,Vårby Allé 32,1973,Bostad,,,,,,,14926,,14926,154
+Huddinge,Bäckgården 8,Vårby Centrum,1974,Övrigt,Ja,2719,2550,381,,,,2238,7888,43
+Huddinge,Krongården 7,Krongårdsvägen 1,1973,Bostad,,,,,,,42045,,42045,420
+Huddinge,Vinkeln 7,Geometrivägen,1994,Handel,,,5391,,,,,,5391,80
+Järfälla,Säby 3:29,Korpralsvägen 10,2008,Bostad,,10,,622,,,5344,8,5984,105
+Karlskoga,Fordonet 1,Tibastvägen 10,1975,Handel,Ja,,1660,,,,,,1660,6
+Lidingö,Fjällräven 1,"Karins Allé 3–7, Vesslevägen 3",1963/1999,Bostad,,,,100,4348,,2561,,7009,
+Linköping,Palmen 3,Gamla Tanneforsvägen 51,2002,Hotell,,,,,,11086,,,11086,155
+Nacka,Sicklaön 354:1,Ektorpsvägen 2,1979,Kontor,,6058,3871,1279,5726,1385,,303,18622,78
+Nacka,Sicklaön 363:2,Värmdövägen 84,1986,Hotell,,2392,,35,,8365,,,10792,142
+Nacka,Älta 9:130,Ältavägen 170,1992,Handel,,,960,,,,880,,1840,24
+Norrtälje,Flygspanaren 8,Stockholmsvägen 39,1959,Handel,,,1884,,,,,,1884,9
+Nynäshamn,Loket 5 & 6,Nickstabadsvägen 14 A,2015,Bostad,,,,,,,6394,,6394,103
+Nynäshamn,Musköten 1,Björn Barkmans väg 1,1968,Bostad,,206,,65,,,22494,1208,23973,203
+Sollentuna,Ritmallen 2,Kung Hans Väg 10,1981/1993,Bostad,,298,,1721,,7844,,1148,11011,121
+Solna,Banken 14,Hotellgatan 11,1965,Hotell,,93,,,,11444,,,11537,181
+Solna,Puman 1,Bangatan 21,1972,Hotell,,340,,145,,1664,,,2149,23
+Stockholm,Alptanäs 1,Haukadalsgatan 3,1981,Handel,Ja,2222,10409,,,,,859,13490,79
+Stockholm,Doggen 1,Vinthundsvägen 157,1974,Kontor,,1650,,,,,,,1650,9
+Stockholm,Doggen 2,Vinthundsvägen 159,1984,Kontor,Ja,4721,,,,,,,4721,23
+Stockholm,Domherren 1,Rådmansgatan 12 A,1929,Kontor,,9719,,26,,,,714,10459,354
+Stockholm,Fiskaren Större 3,Götgatan 21,1929,Bostad,,235,993,,,,1375,,2603,80
+Stockholm,Granen 21,Floragatan 13,1972,Kontor,,4304,,,,,,,4304,145
+Stockholm,Göta Ark 18,Göta Ark 100,1985,Kontor,Ja,17761,320,876,,,,559,19516,529
+Stockholm,Havsfrun 26,Artillerigatan 42,1929,Kontor,,3267,,252,,,,,3519,113
+Stockholm,Holar 3,Skalholtsgatan 10,1985,Övrigt,Ja,6135,,1072,,,,,7207,74
+Stockholm,Islandet 4,Adolf Fredriks Kyrkogata 13,1908,Kontor,,1845,245,125,,,,,2215,73
+Stockholm,Järnplåten 23,Kungsgatan 37,1937,Kontor,,5225,440,171,148,,,2049,8033,484
+Stockholm,Katthavet 8,Näckströmsgatan 8,1863,Övrigt,,,,,,8022,,,8022,313
+Stockholm,Kilaberg 1,Kilabergsvägen,1975,Kontor,Ja,7893,,5009,,,,,12902,
+Stockholm,Kungsbacken 8,Drottninggatan 108,1929,Kontor,,1787,547,67,,,,25,2426,74
+Stockholm,Kvasten 8,Mäster Samuelsgatan 10,1929,Kontor,,1336,614,81,,,,10,2041,219
+Stockholm,Lindansaren 23,"Flaggstång, Holländargatan 22",1929,Kontor,,7120,863,603,,,293,,8879,267
+Stockholm,Luftspringaren 10,Saltmätargatan 10,1931,Kontor,,498,,18,,,,,516,
+Stockholm,Luftspringaren 16,Saltmätargatan 19 A,1929,Kontor,,615,372,80,,,613,794,2474,61
+Stockholm,Lärftet 2,Brommaplan 407,1941,Bostad,Ja,204,530,143,,,895,,1772,33
+Stockholm,Magneten 32,Voltavägen 13,1982,Kontor,,6539,450,3118,,,,,10107,84
+Stockholm,Meteorologen 4,Finn Malmgrens Väg 9,1991,Bostad,Ja,,399,,,,725,,1124,24
+Stockholm,Meteorologen 5,Finn Malmgrens Väg 11,1991,Bostad,Ja,,1090,74,,,1235,,2399,48
+Stockholm,Murmästaren 3,Garvargatan 10,1926,Övrigt,,,,,16423,,,,16423,
+Stockholm,Murmästaren 7,Hantverkargatan 31,1929,Kontor,,2448,462,84,,,,83,3077,105
+Stockholm,Murmästaren 9,Hantverkargatan 21,1929,Bostad,,1419,756,6,,,2444,,4625,135
+Stockholm,Prästgårdsängen 3,Götalandsvägen 218,1986,Kontor,Ja,5405,847,39,,,,,6291,65
+Stockholm,Silket 2,Brommabågen 4,1941,Handel,Ja,174,602,94,,,555,7,1432,28
+Stockholm,Singeln 9,Sorterargatan 8,1970,Kontor,Ja,5139,,103,,,,,5242,32
+Stockholm,Skeppshandeln 1,Hammarby Allé 45,2013,Hotell,,2143,3033,210,,8550,,,13936,439
+Stockholm,Snöflingan 3,Drottningsholmsvägen 59,2009,Hotell,,,,,,22000,,,22000,489
+Stockholm,Spelbomskan 14,"Gyldéngatan 6, Sandåsgatan 2",1939,Övrigt,,,,147,2553,,,,2700,
+Stockholm,Spårvagnen 4,Birger Jarlsgatan 57,1995,Kontor,,18933,3084,962,,,,191,23170,999
+Stockholm,Tre Vapen 7,Valhallavägen 185,2004,Övrigt,,2390,,333,9018,,,,11741,
+Stockholm,Tråden 1,Brommaplan 418–420,1941,Handel,Ja,555,,41,,,537,,1133,22
+Stockholm,Varmvattnet 3,Esbogatan 8,1977,Handel,Ja,,15000,,,,,18009,33009,215
+Stockholm,Vattenkraften 1,Solkraftsvägen 13,1989,Kontor,Ja,6576,734,25,3689,,,4,11028,46
+Stockholm,Vilunda 6:48,Hotellvägen 1,1986,Hotell,,,,,,6955,,,6955,63
+Stockholm,Årstaäng 4,Fredsborgsgatan 24,1966,Kontor,Ja,1547,,84,4182,,,3,5816,57
+Stockholm,Årstaäng 6,Fredsborgsgatan 24,2015,Kontor,Ja,16388,815,849,,,,7,18059,460
+Sundbyberg,Bivacken 2,Kavallerivägen 24,1990,Övrigt,,4017,499,95,70,,,2,4683,42
+Sundbyberg,Bollspelaren 1,Lötsjövägen 10,1993,Övrigt,,,,4028,5621,,,,9649,
+Sundbyberg,Kartan 1,Lötsjövägen 2,1971,Övrigt,,11349,,1160,,2414,5996,2,20921,149
+Sundbyberg,Kasernen 1,Kasernvägen 1,1940,Övrigt,,,,,1546,,,4,1550,
+Sundbyberg,Kasernen 2,Kasernvägen 5,1940,Övrigt,,,,,1594,,,,1594,
+Sundbyberg,Kasernen 3,Kasernvägen 3,1940,Övrigt,,,,,1551,,,,1551,
+Sundbyberg,Kvartermästaren 1,Rissne torg 1,1984,Handel,,470,1657,87,1916,,,6,4136,
+Sundbyberg,Maden 4,Madenvägen 7,1988,Handel,Ja,4314,6357,,,,,466,11137,110
+Sundbyberg,Muraren 9,Järnvägsgatan 30,2002,Bostad,,4037,,19,,,3166,1069,8291,142
+Sundbyberg,Terränglöparen 11,Hallonbergsplan 1,1984,Kontor,,7475,5845,2738,3810,,,4871,24739,155
+Södertälje,Grävmaskinen 23,Morabergsvägen 1,1973,Handel,,,2391,,,,,,2391,4
+Södertälje,Yxan 8,Täppgatan 15,1975,Hotell,,,,,,14115,,,14115,102
+Uppsala,Berthåga 53:1,Naturstensvägen 101,2007,Bostad,,,,,,,3814,,3814,60
+Uppsala,Danmarks-Säby 11:1,Kumlagatan 12,2012,Handel,,,20727,,,,,712,21439,191
+Uppsala,Dragarbrunn 16:4,Dragarbrunns torg 18,1962,Hotell,,,680,51,,5259,,,5990,111
+Uppsala,Kvarngärdet 3:2,Gamla Uppsalagatan 50,1983,Hotell,,,,,,7518,,,7518,54
+Uppsala,Årsta 68:1,Fyrislundsgatan 75,1976,Handel,,,7558,,,,,,7558,61
+Uppsala,Årsta 94:1,Stålgatan 101,1988,Bostad,,,,,,,5274,39,5313,83
+Uppsala,Årsta 95:1,Stålgatan 35,2005,Bostad,,,,,,,4125,8,4133,62
+Örebro,Stjärnregnet 1,Otto E Andersens gata 1,1979,Handel,Ja,,4341,,,,,,4341,30
+Ale,Nödinge 38:14,Ale Torg 10,2007,Handel,,3920,10032,30,,,,,13982,94
+Ale,Surte 1:245,Göteborgsvägen 64 B,1967,Bostad,,215,337,,,,1216,90,1858,17
+Ale,Surte 1:293,Göteborgsvägen 93 A,1946,Bostad,,,,,424,,356,,780,
+Ale,Surte 1:294,Brattåsstigen 6,1992,Bostad,,,,,455,,330,,785,
+Ale,Surte 4:119,Göteborgsvägen 64,1987,Handel,,808,1440,277,,,462,114,3101,19
+Alingsås,Bagaren 14,Hantverksgatan 2,1991,Bostad,,,,,,,556,,556,8
+Alingsås,Bagaren 2,Hantverksgatan 4,1992,Bostad,,,,,,,424,9,433,6
+Alingsås,Björkhagen 1,Björkhagegatan 2 A,2008,Bostad,,,,,,,3212,,3212,60
+Alingsås,Bolltorp 4:13,Bolltorp,2003,Bostad,,,,,,,14166,,14166,249
+Alingsås,Dryckeshornet 1,Bankgatan 1,1911,Hotell,,,219,,,5362,,,5581,36
+Alingsås,Safiren 1,Safirgatan 6 A,1993,Bostad,,,,,,,4342,,4342,64
+Alingsås,Skyffeln 2,Aleforsvägen 9,1973,Kontor,,210,,5716,,,,,5926,18
+Alingsås,Smedjan 3,Malmgatan 6 A,1953,Handel,,,2807,,,,,15,2822,7
+Borås,Bulten 1,Verkstadsgatan 3,1901,Handel,,,1815,,,,,,1815,6
+Borås,Plutonen 1,Pickesjövägen 2,2011,Handel,,40,12318,,,,,762,13120,66
+Borås,Vattnet 4,Elementgatan 8,2018,Handel,,,7716,,,,,,7716,41
+Borås,Vindtyget 6,Ödegärdsgatan 2 A,2012,Handel,,,3350,,,,,,3350,21
+Göteborg,Askim 243:20,Askims Torg,1972,Kontor,,1803,638,553,1385,,,,4379,29
+Göteborg,Backa 169:2,Södra Deltavägen 3 B,1994,Handel,,,3615,,,,,,3615,47
+Göteborg,Backa 169:3,Södra Deltavägen 3 A,2006,Handel,,,1975,,,,,,1975,45
+Göteborg,Backa 171:3,Backavägen 1,1955,Handel,,,4334,,,,,,4334,53
+Göteborg,Backa 171:4,Backavägen 3,1990,Kontor,,4932,2930,308,,,,,8170,108
+Göteborg,Backa 21:14,Exportgatan 47 B,1989,Övrigt,,608,,1784,,,,108,2500,13
+Göteborg,Bagaregården 5:8,Kungälvsgatan 6 A,1929,Bostad,,,,,,,584,,584,16
+Göteborg,Bagaregården 5:9,Kungälvsgatan 6 A,1929,Bostad,,,,,,,588,,588,16
+Göteborg,Bergsjön 34:1,Atmosfärgatan 1,1970,Bostad,,115,,281,,,22336,,22732,204
+Göteborg,Bergsjön 9:6,Kosmosgatan 1,1967,Bostad,,77,162,399,,,43993,3482,48113,397
+Göteborg,Biskopsgården 7:1,Långströmsgatan 26,1967,Bostad,Ja,,,388,,,15278,,15666,136
+Göteborg,Biskopsgården 7:2,Långströmsgatan 14 C,1967,Bostad,Ja,145,,153,,,13855,,14153,126
+Göteborg,Biskopsgården 7:3,Långströmsgatan 10 A,1968,Bostad,Ja,,,161,,,13988,,14149,122
+Göteborg,Brämaregården 72:4,Hisingsgatan 28,1959,Kontor,Ja,2495,889,42,,,,20,3446,29
+Göteborg,Bur 134:1,Oxholmsgatan 28,1989,Bostad,Ja,,,,,,,302,302,
+Göteborg,Bö 93:2,Sofierogatan 1,1940,Kontor,,8304,,472,,,,316,9092,119
+Göteborg,Gamlestaden 25:11,Marieholmsgatan 4,1990,Kontor,Ja,3809,,178,,,,70,4057,28
+Göteborg,Gamlestaden 26:13,Vassgatan 3,1988,Kontor,Ja,3803,,6363,,,,3991,14157,64
+Göteborg,Gullbergsvass 11:2,Gullbergs Strandgata 40,1977,Övrigt,Ja,,,5865,,,,,5865,27
+Göteborg,Gårda 15:1,Fabriksgatan 7,1929,Kontor,,7144,207,487,,,,,7838,194
+Göteborg,Gårda 15:1  (15:12),Drakegatan 2,1937,Bostad,,1583,87,,,,6717,,8387,237
+Göteborg,Gårda 70:9,Kobbarnasväg 17,1985,Bostad,,,,,,,1519,,1519,39
+Göteborg,Göteborg Tuve 116:6,Grimbodalen 6,2008,Handel,,,3213,,,,,,3213,22
+Göteborg,Heden 24:11,Engelbrektsgatan 73,1964,Hotell,Ja,,,,,17875,,,17875,305
+Göteborg,Heden 47:3,Parkgatan 49,2015,Kontor,,5788,472,50,,,,1231,7541,271
+Göteborg,Högsbo 1:1,J A Wettergrensgata 7,1967,Kontor,,11165,,3527,,,,124,14816,66
+Göteborg,Högsbo 11:10,Victor Hasselbladsgata 8,1982,Kontor,,4050,,,,,,,4050,20
+Göteborg,Högsbo 23:4,Gustaf Werners Gata 1,2008,Handel,,1698,31250,274,,,,94,33316,451
+Göteborg,Högsbo 36:2,Norra Långebergsgatan 2,1974,Handel,,,5597,,,,,456,6053,46
+Göteborg,Högsbo 36:8,Hulda Mellgrensgata 11,1992,Handel,,2448,,,,,,,2448,33
+Göteborg,Högsbo 38:17,Sisjö Kullegata 5,1986,Kontor,,1680,,,,,,26,1706,15
+Göteborg,Högsbo 38:20,Sisjö Kullegata 6,1989,Kontor,,2010,,780,,,,,2790,22
+Göteborg,Högsbo 38:8,Sisjö Kullegata 8,1990,Kontor,,5409,,1340,,,,,6749,62
+Göteborg,Inom Vallgraven 1:13,Drottninggatan 62,1986,Hotell,,,,,,26656,,,26656,460
+Göteborg,Inom Vallgraven 14:1,Södra Hamngatan 2,1907,Övrigt,,,1732,,,3129,,,4861,114
+Göteborg,Inom Vallgraven 15:3,Drottninggatan 30,1980,Kontor,,3847,379,169,,,,,4395,124
+Göteborg,Inom Vallgraven 16:21,Drottninggatan 10,1882,Kontor,,2370,352,86,,,,200,3008,91
+Göteborg,Inom Vallgraven 19:4,Drottninggatan 31,1929,Kontor,,859,236,,,,,,1095,30
+Göteborg,Inom Vallgraven 19:6,Drottninggatan 35,1929,Kontor,,525,510,,,,,,1035,25
+Göteborg,Inom Vallgraven 2:2,Drottninggatan 69,1853,Kontor,,1038,254,,,,,,1292,42
+Göteborg,Inom Vallgraven 20:8,Östra Hamngatan 37,1993,Kontor,,587,514,,,,,6,1107,40
+Göteborg,Inom Vallgraven 22:6,Kungsgatan 41,1869,Kontor,,405,468,,,,,,873,43
+Göteborg,Inom Vallgraven 33:7,Magasinsgatan 26,1929,Kontor,,2189,926,21,,,258,387,3781,82
+Göteborg,Inom Vallgraven 36:4,Kaserntorget 11 A,1912,Kontor,,3154,,10,9494,,,3840,16498,
+Göteborg,Inom Vallgraven 4:2,Lilla Kungsgatan 1,1929,Kontor,,2068,630,62,,,,1001,3761,98
+Göteborg,Inom Vallgraven 4:4,Lilla Kungsgatan 3,1929,Kontor,,5819,,,,,,,5819,105
+Göteborg,Inom Vallgraven 4:5,Bastionsplatsen 2,2019,Kontor,,2260,770,55,,,,500,3585,
+Göteborg,Inom Vallgraven 54:10,Lilla Torget 3,1929,Kontor,,700,175,,,,,,875,16
+Göteborg,Inom Vallgraven 54:9,Lilla Torget 4,1929,Kontor,,757,,8,,,,,765,18
+Göteborg,Inom Vallgraven 58:6,Kungsgatan 34,1989,Kontor,,2816,328,10,,,,1374,4528,159
+Göteborg,Inom Vallgraven 8:1,Kyrkogatan 29–31,1850,Handel,,1526,1668,,,,,5,3199,137
+Göteborg,Inom Vallgraven 8:14,Kungsgatan 54,1929,Kontor,,1318,1606,,,,,,2924,116
+Göteborg,Inom Vallgraven 8:19,Kungsgatan 56,1962,Kontor,,801,509,,,,,,1310,66
+Göteborg,Inom Vallgraven 8:20,Kyrkogatan 33,1940,Handel,,,803,,,,,,803,21
+Göteborg,Järnbrott 145:6,Svängrumsgatan 45,1963,Bostad,Ja,,,,,,3899,8,3907,82
+Göteborg,Kobbegården 6:169,Datavägen 18,1980,Kontor,,,,1608,,,,,1608,7
+Göteborg,Kobbegården 6:170,Datavägen 16,1985,Kontor,,,,1574,,,,,1574,8
+Göteborg,Kobbegården 6:259,Datavägen 41,,Kontor,,,,,,,,,,3
+Göteborg,Kobbegården 6:261,Datavägen 37,1976/1981,Kontor,,2896,386,5670,,,,,8952,52
+Göteborg,Kobbegården 6:56,Datavägen 12 B,1981,Kontor,,1530,,1353,,,,,2883,16
+Göteborg,Kobbegården 6:725,Datavägen 12 A,1988,Kontor,,3268,,,,,,,3268,36
+Göteborg,Kvillebäcken 16:10,Färgfabriksgatan 7,1965,Övrigt,,100,1876,527,,,,985,3488,8
+Göteborg,Kvillebäcken 16:11,Gamla Björlandavägen 2,1966,Kontor,,3152,854,217,,,,4316,8539,43
+Göteborg,Kvillebäcken 61:5,Ångpannegatan 1,1945,Kontor,,,,1505,,,,,1505,2
+Göteborg,Kvillebäcken 61:8,Turbingatan 1,1901,Kontor,,,,2059,,,,,2059,12
+Göteborg,Kålltorp 36:7,Solrosgatan 13 A,1935,Bostad,,,,,,,769,105,874,20
+Göteborg,Kålltorp 39:1,Råstensgatan 2 A,1936,Bostad,,,,,,,791,,791,20
+Göteborg,Kärra 32:22,Tagenevägen 26,1980,Handel,Ja,,2800,,,,,,2800,20
+Göteborg,Kärra 73:1–2,Tagenevägen 17 A,1971,Handel,,192,,4160,,,,220,4572,28
+Göteborg,Kärra 95:3,Orrekulla Industrigata 14,1990,Handel,,,7080,,,,,129,7209,56
+Göteborg,Lindholmen 29:1,Theres Svenssons Gata 15,2002,Kontor,,11297,475,86,,,,31,11889,301
+Göteborg,Lindholmen 39:2,Lindholmspiren 4,2013,Hotell,,,,,,13299,,,13299,299
+Göteborg,Lorensberg 45:20,Kungsportsavenyen 6–8,1971,Hotell,,,1357,,,2305,,,3662,136
+Göteborg,Lorensberg 46:1,Kungsportsavenyen 3,1929,Handel,,737,1831,42,,,,316,2926,66
+Göteborg,Lorensberg 46:10,Kungsportsavenyen 17,1944,Kontor,,1053,572,,,,,,1625,48
+Göteborg,Lorensberg 46:11,Teatergatan 18,1929,Handel,,,,,,,,1203,1203,23
+Göteborg,Lorensberg 46:12,Kungsportsavenyen 11,1929,Handel,,,2394,,,,,,2394,66
+Göteborg,Lorensberg 46:5,Kungsportsavenyen 7,1929,Handel,,201,766,,,,,,967,27
+Göteborg,Lorensberg 46:6,Kungsportsavenyen 9,1950,Handel,,,,,,,,1176,1176,37
+Göteborg,Lorensberg 49:2,Storgatan 33,1983,Hotell,,,,,,1500,,,1500,23
+Göteborg,Lorensberg 55:15,Södra Vägen 23,1969,Kontor,,2700,8690,336,,13158,,,24884,851
+Göteborg,Lorensberg 55:4,Södravägen 27,1968,Kontor,,,120,,3308,,,,3428,
+Göteborg,Lorensberg 55:8,Lorensbergsgatan 16,1968,Kontor,,,,,,,,,,24
+Göteborg,Lunden 45:2,Platågatan 3 A,1986,Bostad,,,,,,,625,,625,16
+Göteborg,Masthugget 11:13,Andra Långgatan 29,1970,Kontor,,17632,2840,945,2046,,7706,1445,32614,546
+Göteborg,Nordstaden 10:15,Köpmansgatan 27,1929,Kontor,,1031,590,36,,,,812,2469,99
+Göteborg,Nordstaden 10:16 & 10:17,Köpmansgatan 29,2008,Hotell,,,113,,,7753,,,7866,193
+Göteborg,Olskroken 10:5,Olskroksgatan 30,1985,Kontor,,1920,,81,2532,,,,4533,
+Göteborg,Olskroken 25:11,Falkgatan 7,1932,Övrigt,,,,,1969,,,292,2261,
+Göteborg,Rud 8:10,Munspelsgatan 10,1962,Bostad,,255,,614,,,43673,988,45530,729
+Göteborg,Rud 8:12,Lergöksgatan 2 AA,2019,Övrigt,,,2790,,,,,,2790,62
+Göteborg,Rud 8:22,Munspelsgatan 18,2019,Övrigt,,,,,,,,,,9
+Göteborg,Sannegården 25:1,Säterigatan 20,1971,Kontor,,3482,,192,,,,,3674,24
+Göteborg,Sannegården 28:5,Sjöporten 1,1945,Hotell,,69,307,,,1161,,,1537,17
+Göteborg,Stampen 7:12,Burggrevegatan 25,1901,Hotell,,,,,,3533,,,3533,86
+Göteborg,Tingstadsvassen 3:6,Krokegårdsgatan 3,1944,Handel,,128,3426,100,,,,6,3660,77
+Göteborg,Tingstadsvassen 3:7,Krokegårdsgatan 7,1987,Handel,,,5243,,,,,,5243,116
+Göteborg,Tingstadsvassen 3:8,Krokegårdsgatan 5,1991,Handel,,,4865,,,,,,4865,126
+Göteborg,Tingstadsvassen 4:3,Krokegårdsgatan 1,1986,Handel,,502,3268,,,,,15,3785,85
+Göteborg,Torslanda 153:1,Mossfyndsgatan 15,1989,Bostad,Ja,362,,,,,,,362,
+Göteborg,Torslanda 155:3,Mossfyndsgatan 10,1989,Bostad,Ja,300,,,,,,,300,
+Göteborg,Torslanda 95:1,Torslanda Torg 2,1973,Handel,,231,4578,26,,,871,968,6674,51
+Göteborg,Uggledal 408:1,Uggledalsvägen 13,2010,Kontor,,3200,,,,,,,3200,23
+Göteborg,Utby 39:11,Västra Tvärskedet 3,1990,Bostad,,,,,116,,351,,467,
+Jönköping,Visionen 4,Bataljonsgatan 14,2016,Handel,,,22448,,,,,385,22833,166
+Kungsbacka,Bolsheden 1:18,Bolshedens Industriväg 35,2006,Kontor,,2718,,1745,,,,,4463,26
+Kungsbacka,Bolsheden 1:48,Bolshedens Industriväg 30,1992,Kontor,,699,,3701,,,,,4400,19
+Kungsbacka,Hede 4:14,Hedebrovägen 15,2011,Handel,,,4177,,,,,,4177,29
+Kungsbacka,Kungsbacka 6:28,Smörhålevägen 1,1993,Övrigt,,,,,,456,,2219,2675,
+Kungsbacka,Kungsbacka 6:29,Smörhålevägen 3–5,1993,Övrigt,,2585,,603,1723,,,,4911,
+Kungsbacka,Spekedal 1:104,Kopparvägen 4–14,1988,Bostad,,,,,,,2519,,2519,27
+Kungsbacka,Spekedal 1:92,Gottskärsvägen 28,1987,Bostad,,,,,,,681,,681,6
+Kungsbacka,Varla 2:367,Energigatan 3,1986,Övrigt,,,,,,,,563,563,3
+Kungsbacka,Varla 2:394,Energigatan 5 A-C,1987,Övrigt,,,,,,,,685,685,4
+Kungsbacka,Varla 2:429,Magasinsgatan 2 A,2004,Övrigt,,,,,,,,1172,1172,8
+Kungsbacka,Verkmästaren 10,Hantverksgatan 3,1975,Kontor,,,3471,,,,,,3471,15
+Kungsbacka,Ysby 2:25,Klovstensvägen 13–17,,Övrigt,,,,,,,,,,
+Kungälv,Krabbetornet 1 & 35,Västra Gatan 84,1938,Handel,,391,840,,,,272,,1503,15
+Kungälv,Rhodin 19,Strandgatan 77,1967,Handel,,,2822,91,,,,7,2920,30
+Kungälv,Skatan 1,Christian IV:s väg 1,1976,Kontor,,,1489,,,,,,1489,7
+Kungälv,Skomakaren 10,Fabriksgatan 10,1988,Kontor,,1781,478,79,1474,,,308,4120,
+Kungälv,Slottsträdgården 5,Gamla Torget,1958,Hotell,,,,,,6100,,,6100,31
+Kungälv,Stopet 1,Fräkne Gränd 20,2018,Bostad,,,221,,,,7869,,8090,126
+Lerum,Floda 3:121,Gamla Vägen 26,1991,Bostad,,,,,,,1016,,1016,14
+Lerum,Lerum 43:21,Skattegårdsbacken 10,1991,Bostad,,,,,,,1383,,1383,3
+Lerum,Torp 1:328,Lindvägen 34 A,1988,Bostad,,,,,,,428,11,439,5
+Mariestad,Enen 23,Viktoriagatan 16,1985,Handel,,,3889,,,,1952,,5841,42
+Mariestad,Furan 11,Stockholmsvägen 23,1962,Bostad,,121,,,,,1620,637,2378,45
+Mariestad,Furan 12,Stockholmsvägen 25,1962,Bostad,,,,6,,,4254,,4260,
+Mariestad,Fårtickan 1,Bergsgatan 20,1968,Bostad,,,,,,,4632,,4632,34
+Mariestad,Granen 8,Viktoriagatan 17,,Övrigt,,,,,,,,,,
+Mariestad,Hunden 3,Nya Torget 1,1965,Handel,,,2187,260,,,158,1251,3856,16
+Mariestad,Murklan 1,Bergsgatan 18,1968,Bostad,,,,,,,12597,,12597,91
+Mariestad,Staren 8,Nygatan 14,1966,Handel,,305,1596,,,,65,46,2012,8
+Mölndal,Fallström 14,Fallströmsgatan 1,1996,Kontor,,89,,,,,842,,931,
+Mölndal,Gaslyktan 2,Argongatan 20,1981,Handel,,,3483,,,,,81,3564,31
+Mölndal,Gaslyktan 8,Argongatan 8,1977,Kontor,,478,,5913,,,,,6391,35
+Mölndal,Leoparden 2,Göteborgsvägen 129,1923,Handel,,1476,20669,,,,,495,22640,125
+Mölndal,Pekdonet 1,Betagatan 2,,"Projekt, mark",,,,,,,,,,
+Mölndal,Pianot 5,Bäckstensgatan 13,2009,Handel,,2493,,,,,,,2493,22
+Mölndal,Presenten 1,Flöjelbergsgatan 24,2001,Handel,,774,12726,,,,,77,13577,96
+Mölndal,Presenten 2,Flöjelbergsgtan 22,1978,Handel,,,2250,,,,,75,2325,12
+Mölndal,Stockrosen 10,Norra Ågatan 26 C,1973,Kontor,,1520,,53,,,,35,1608,13
+Mölndal,Stockrosen 3,Norra Ågatan 38,1964,Kontor,,1073,408,4548,,,,190,6219,21
+Mölndal,Stockrosen 6,Norra Ågatan 34,1948,Kontor,,551,1212,252,,,,,2015,14
+Skövde,Dagsländan 10,Barkvägen 10 A,1972,Bostad,,222,,,,,22212,,22434,172
+Skövde,Ekoxen 10,Barkvägen 32,1974,Bostad,,2406,346,,,,21927,5656,30335,203
+Skövde,Mellomkvarn 1,Mellomkvarnsvägen 2,1972,Handel,,,10959,,,,,,10959,37
+Skövde,Smeden 5,Petter Heléns Gata 2,1976,Kontor,Ja,2434,,,,,,,2434,16
+Skövde,Storängen 13,Kåsatorpsvägen 5,1992,Kontor,,2205,,70,,,,,2275,13
+Trollhättan,Fullriggaren 1,Sandviksvägen 2,1990,Handel,,,2200,,,,,,2200,9
+Trollhättan,Fullriggaren 6,Överbyvägen 29,2020,Handel,,,,2000,,,,,2000,10
+Trollhättan,Hoppet 1,"Drottninggatan 13, Staveredsg 19",1992,Bostad,,295,,,,,2341,265,2901,35
+Trollhättan,Plogen 1,Lantmannavägen,1969,Bostad,Ja,32,,316,,,11166,,11514,82
+Trollhättan,Plogen 2,Lantmannavägen,1967,Bostad,Ja,,,,,,10555,176,10731,64
+Trollhättan,Propellern 7,Saabvägen 1,1992,Kontor,,4759,,,,,,9,4768,14
+Trollhättan,Sjöfrun 5,"Magasinsg 4 A–4 B, Storgatan 35",1936,Bostad,,,193,,,,1367,161,1721,19
+Trollhättan,Strandpiparen 12,Slättbergsvägen 22,1952,Bostad,,,,14,,,640,110,764,8
+Trollhättan,Svan 7,Storgatan 47,1989,Hotell,,,,,,11632,,,11632,51
+Trollhättan,Venus 9,"Föreningsg 10 A–10 C,  
+Österlångg 44–46",1989,Bostad,,1250,475,,,,1594,,3319,29
+Uddevalla,Bagge 7,Kungsgatan 10,1968,Handel,,1050,1569,103,,,,,2722,21
+Uddevalla,Frölandsgärdet 2,Brunegårdsvägen 5,1989,Handel,,,,5614,,,,136,5750,20
+Uddevalla,Kålgården 51,"Kyrkogårdsgatan 1, 3, 5",1930,Hotell,,1027,590,500,294,6500,,10,8921,49
+Uddevalla,Sälghugget 1,Lillbräckegatan,1972,Bostad,Ja,243,239,206,,,14456,,15144,151
+Varberg,Kardanen 4,Kardanvägen 6 A,1991,Handel,,,3847,,,,,,3847,14
+Greve,Matr.nr. 6os,Ventrupparken 6,2010,Övrigt,,,,4909,,,,,4909,
+Köpenhamn,Matr.nr 1002 d Sundby Overdrev,Hannemanns Allé,2018,Bostad,,,,,,,7137,,7137,
+Köpenhamn,"Matr.nr 1034, 1035, 955a Sundby 
+Overdrev","Else Alfelts Vej 85–89, 95–101, 
+ Richard Mortensens Vej 84–88",2016,Bostad,,,,,,,18234,,18234,
+Köpenhamn,Matr.nr 1041 Sundby øster,"Lergravsvej nr. 64–76, Øresundsvej 
+145–159",2017/2018,Bostad,,,232,,,,41395,139,41766,
+Köpenhamn,Matr.nr 130 & 158 Vestervold Kvarter,Colbjørnsensgade 13,1889,Hotell,,,,,,6380,,,6380,
+Köpenhamn,Matr.nr 1565 Udenbys Vester,"Havneholmen 12 B–G, 14 B–G",2016,Bostad,,,,,,,17286,252,17538,
+Köpenhamn,"Matr.nr 2406 Udenbys Klædebo 
+ Kvarter","Marskens Gade 1–35, Borgm. Jensens 
+Allé 11–41, Serridslevvej 4–22",1996,Bostad,,,,,,,43684,,43684,
+Köpenhamn,Matr.nr 274 Vestervold kvarter,Jernbanegade 8,1912,Övrigt,,,,,,,,5300,5300,
+Köpenhamn,Matr.nr 329 Vestervold Kvarter,Bernstorffsgade 4,1913,Hotell,,,,,,5310,,,5310,
+Köpenhamn,Matr.nr 371 Vestervold Kvarter,Vester Farimagsgade 33,1950,Hotell,,,,,,6308,,,6308,
+Köpenhamn,Matr.nr 378 Vestervold Kvarter,Vester Farimagsgade 17,1957,Hotell,,,,,,5120,,,5120,
+Köpenhamn,Matr.nr 59o Hillerød Markjorder,"Studiestræde 3–27, 3400 Hillerød",2020,Bostad,,,,,,,10656,,10656,
+Köpenhamn,Matr.nr 938 Østervold Kvarter,Oslo Plads 5,1958,Hotell,,,,,,7453,,,7453,
+Köpenhamn,Matr.nr 952 g Sundby Overdrev,Else Alfelts Vej 52 –58,2019,Bostad,,,211,,,,21029,,21240,
+Köpenhamn,"Matr.nr 954 b, Sundby Overdrev",Else Alfelts Vej 80,2017,Bostad,,,,,,,15035,,15035,
+Köpenhamn,"Matr.nr 957 og 980A Sundby 
+O  verdrev",Richard Mortensens vej 60,2020,Bostad,,,127,,,,21175,,21302,
+Köpenhamn,"Matr.nr 964 a, Sundby Overdrev",Robert Jacobsens Vej 50,2019,Bostad,,,95,,,,20830,,20925,
+Köpenhamn,Matr.nr 966 Sundby Overdrev,Robert Jacobsens vej 93–101,2009,Bostad,,,,,,,6807,,6807,
+Köpenhamn,Matr.nr Vestervold kvarter 0273,Niels Brocks Gade 1,2017,Hotell,,,,,,5300,,,5300,
+Burlöv,Tågarp 16:12,Testvägen 4,1990,Handel,,,,,,,,3174,3174,14
+Gislaved,Anderstorp 8:16,Ågatan 35,1970,Handel,,,1400,,,,,100,1500,3
+Halmstad,Eketånga 24:20,Olofsdalsvägen 33,1973,Handel,,,5836,,,,,,5836,30
+Halmstad,Eketånga 24:47,Olofsdalsvägen 37,2012,Handel,,,3220,,,,,,3220,29
+Halmstad,Stenalyckan 2,Orkangatan 1,1992,Handel,,,3750,,,,,,3750,17
+Helsingborg,Amerika Södra 28,Bryggaregatan 7,1950,Bostad,,561,501,20,,,5094,1363,7539,111
+Helsingborg,Huggjärnet 10,Garnisonsgatan 5,1971,Handel,,,,,,,,11144,11144,30
+Helsingborg,Skalbaggen 15,Gustav Adolfs Gata 13,1939,Bostad,,,,,,,762,19,781,7
+Helsingborg,Skalbaggen 16,Gasverksgatan 32 A,1935,Bostad,,,195,,,,2155,65,2415,22
+Helsingborg,Skalbaggen 17,Gasverksgatan 34,1935,Bostad,,,83,,,,712,32,827,7
+Helsingborg,Skalbaggen 18,Gasverksgatan 36,1933,Bostad,,,34,,,,818,66,918,7
+Helsingborg,Skalbaggen 19,Gasverksgatan 38,1935,Bostad,,,,,,,708,57,765,6
+Helsingborg,Skalbaggen 20,Gasverksgatan 40,1935,Bostad,,,83,,,,632,109,824,6
+Helsingborg,Skalbaggen 21,Gasverksgatan 42,1935,Bostad,,,,,,,711,103,814,7
+Helsingborg,Skalbaggen 22,Gasverksgatan 44 A,1930,Bostad,,,143,,,,1905,,2048,17
+Helsingborg,Skalbaggen 23,Gustav Adolfs Gata 17,1967,Bostad,,,,,,,3685,60,3745,36
+Helsingborg,Skalbaggen 24,Gustav Adolfs Gata 15,1983,Bostad,,,,,,,2134,,2134,20
+Helsingborg,Skalbaggen 7,Drakegatan 5,1929,Bostad,,,,,,,688,111,799,7
+Helsingborg,Verdandi 1,Bifrostgatan 71,2006,Bostad,,,62,,,,3763,,3825,53
+Helsingborg,Württemberg 20,Furutorpsgatan 29,1937,Handel,,1392,6168,15,,,4786,1314,13675,146
+Helsingborg,Zirkonen 3,Andesitgatan 18,2016,Handel,,,5500,,,,,,5500,42
+Kristianstad,Hammar 9:184,Blekingevägen 104,1989,Handel,,,,,,,,5135,5135,12
+Kristianstad,Hovrätten 41,Västra Storgatan 13,1985,Hotell,,,380,,,7075,,,7455,40
+Kristianstad,Topplocket 1,Sävevägen 1,1999,Handel,,,6509,,,,,,6509,37
+Kristianstad,Traversen 1,Hedentorpsvägen 14 A,1990,Handel,,,,2172,,,,,2172,7
+Ljungby,Linné 9,Fabriksgatan 5,1970,Handel,,,1975,,,,,,1975,4
+Lund,Dioriten 1,"Brunnsgård, Råbyvägen 1",2001,Kontor,,3080,,,,,,,3080,34
+Lund,Jöns Petter Borg 14,Hedvig Möllers gata 2,2013,Hotell,,,,,,8462,,,8462,73
+Lund,Kalkstenen 1,Kalkstensvägen 32,2000,Handel,,,2180,,,,,,2180,12
+Lund,Kopparkisen 13,Porfyrvägen 11,1989,Handel,,,4732,,,,,72,4804,22
+Lund,Lagfarten 1 & 2,Magistratsvägen 10,1968,Kontor,,3472,1005,289,,,,,4766,35
+Lund,Porfyren 2,Glimmervägen 3,1991,Hotell,,,,,,15711,,,15711,105
+Lund,Rügen 1,Stralsundsvägen 1–25,2006,Bostad,,,,,,,3085,,3085,51
+Lund,Rügen 2,Stralsundsvägen 29,2006,Bostad,,,,,,,5264,526,5790,95
+Malmö,Automobilen 1,Jägersrovägen 100,1985,Handel,Ja,,,10718,,,,827,11545,42
+Malmö,Draglädret 1,Jägersrovägen 179,1994,Handel,,,2679,,,,,,2679,19
+Malmö,Grytan 4,Agneslundsvägen 24 A-B,2010,Övrigt,Ja,,,,2400,,,,2400,
+Malmö,Grytan 9,Agneslundsvägen 22,2010,Övrigt,,98,164,185,11923,,1366,262,13998,
+Malmö,Hans Michelsen 10,Adelgatan 5,1963,Hotell,,1955,558,,,1645,,10,4168,40
+Malmö,Hästkälken 3,Jägershillgatan 4,1979,Handel,Ja,,2290,,,,,,2290,11
+Malmö,Ledebur 15,Amiralsgatan 20,1990,Kontor,,6113,,,,,,1300,7413,87
+Malmö,Lejonet 1,Isak Slaktaregatan 2,1991,Hotell,,,,,,3849,,,3849,72
+Malmö,Lejonet 2,Lilla Torg 1,1929,Kontor,,4064,1256,72,,,314,,5706,130
+Malmö,Rosen 9,Engelbrektsgatan 2,1960,Hotell,,,1430,9,,9777,,,11216,161
+Malmö,Spinneriet 8,Baltzarsgatan 20,1957,Kontor,,12070,3192,2283,,5540,,1454,24539,539
+Malmö,Spännbucklan 12 & 13,Agnesfridsvägen 180,1983,Handel,Ja,,5320,,,,,,5320,26
+Malmö,Von Conow 54,Baltzarsgatan 31,1964,Kontor,,9944,2409,1950,,,2584,4135,21022,464
+Trelleborg,Lavetten 41,Hedvägen 167–173,1987,Handel,,,990,,,,,,990,5
+Trelleborg,Phylatterion 6,Bryggaregatan 25–39,1991,Handel,,,3520,1563,,,,,5083,17
+Trelleborg,Snickeriet 16–17 och Verkstaden 11,Maskingatan 1,1975,Handel,,,1600,,,,,220,1820,6
+Värnamo,Sjötungan 1,Margretelundsvägen 2,1973,Handel,,,4924,,,,,425,5349,15
+Växjö,Elden Södra 17,Biblioteksgatan 7,1985,Hotell,,,65,,,6888,,57,7010,40
+Växjö,Kocken 3,Hejaregatan 19,1969,Hotell,,,,,,3982,,,3982,19
+Åstorp,Asken 14,Esplanaden 15,1952,Bostad,,167,239,53,,,771,,1230,8
+Åstorp,Blåklockan 9,Fågelsångsgatan 32 A,1966,Bostad,,,,,,,808,,808,6
+Åstorp,Boken 4,Esplanaden 19 A,1945,Bostad,,218,1163,222,,,7642,,9245,70
+Åstorp,Ekorren 27,Skolgatan 7,1929,Bostad,,,162,70,,,724,,956,7
+Åstorp,Hyllinge 5:122,Postgatan 12 A,1963,Bostad,,,,164,120,,7431,134,7849,34
+Åstorp,Hästhoven 12,Fabriksgatan 19 A,1960,Bostad,,,704,72,,,2633,,3409,23
+Åstorp,Kastanjen 16,Esplanaden 7,1972,Bostad,,1919,833,,,,3543,161,6456,42
+Åstorp,Linden 11,Nyvångsgatan 1 A,1961,Bostad,,,,,,,340,,340,3
+Åstorp,Lotusblomman 15,Nyvångsgatan 31,1961,Bostad,,,,,,,340,,340,3
+Åstorp,Lungörten 1,Nyvångsgatan 2 A,1961,Bostad,,,,,,,792,,792,4
+Åstorp,Lärksoppen 10,Ekebrogatan 100,1972,Bostad,,,,28,,,8050,165,8243,33
+Åstorp,Lärkträdet 10,Ekebrogatan 1,1970,Bostad,,,,42,,,5799,142,5983,24
+Åstorp,Moroten 10,Torggatan 35 A,1954,Bostad,,,,,,,776,,776,5
+Åstorp,Resedan 1,Norra Storgatan 10 A,1964,Bostad,,,,20,,,1073,,1093,7
+Åstorp,Svärdsliljan 7,Östergatan 16 A,1958,Bostad,,245,457,16,,,6457,,7175,45
+Åstorp,Tranan 1,Fjällvägen 10 A,1991,Bostad,,,,,,,3820,,3820,33
+Ängelholm,Skräddaren 5,Verkstadsgatan 5,1973,Handel,,,,1172,,,,,1172,4
+Ängelholm,Taktäckaren 6,Midgårdsgatan 11,2015,Handel,,583,875,4780,,,,429,6667,36
+Tyskland,Flera fastigheter,,,Hotell,,,,,,40381,,,40381,
+Storbritannien,London,8 Fenchurch Place,,Kontor,,9161,,,,,,,9161,
+Storbritannien,London,11 Ironmonger Lane,,Kontor,,1800,,,,,,,1800,
+Gotland,Soldaten 1,Volontärgatan,2005,Bostad,,,,29,,,3050,50,3129,35
+Linköping,Nöjet 1,Låsbomsgatan 27,2010,Handel,,,1380,,,,,,1380,9
+Linköping,Paletten 2,Ottargatan 1,1972,Handel,,,,5202,,,,440,5642,38
+Linköping,Papegojan 1,Vigfastgatan 5,1967,Handel,,,7775,,,,,15,7790,36
+Norrköping,Gärdet 1,Rågången 71,1958,Bostad,,,491,7,,,4609,,5107,68
+Norrköping,Lammet 2,Kungstorget 2,1939,Bostad,,173,1950,,,,2405,60,4588,45
+Norrköping,Lokatten 12,Trädgårdsgatan 8 B,1992,Bostad,,1586,380,15,,,5502,401,7884,108
+Norrköping,Planket 20,Bråddgatan 54,1983,Bostad,,,,,,,1139,,1139,17
+Norrköping,Planket 23,Plankgatan 46,1940,Bostad,,25,60,,,,940,600,1625,16
+Norrköping,Prinsen 18,Hospitalsgatan 42,1967,Bostad,,,30,138,,,9603,11,9782,153
+Norrköping,Sprutan 8,Gamla Rådstugugatan 52,1940,Bostad,,,370,12,,,1318,145,1845,25
+Norrköping,Stenhuggaren 25,Sandgatan 28,1960,Bostad,,,,,,,2918,,2918,44
+Norrköping,Storgatan 10,Drottninggatan 10,1929,Bostad,,484,,,,,1213,755,2452,25
+Norrköping,Storgatan 9,Nya Rådstugegatan 2,1985,Bostad,,252,355,20,,,6066,248,6941,110
+Norrköping,Stävan 2,Rösgången 32,1959,Bostad,Ja,,,,,,3639,,3639,49
+Norrköping,Tullhuset 1,Gamla Rådstugugatan 11,1929,Bostad,,,273,,,,1344,,1617,24
+Nyköping,Brandholmen 1:72,Idrottsvägen 12 E,2014,Övrigt,,,,,,,,16324,16324,
+Västerås,Badelundaåsen 3,Stockholmsvägen 144,1987,Handel,,,2796,,,,,,2796,18
+Västerås,Fältmössan 1,Rönnbergagatan 1,1963,Bostad,,,150,106,,,14331,,14587,261
+Västerås,Klockarkärleken 2,Rönnbergagatan 4,1962,Bostad,,,,260,,,5778,,6038,44
+Västerås,Rödklinten 2,Bangatan 15,1957,Bostad,,,133,120,,,7003,30,7286,51
+Västerås,Sågen 1,Pilgatan 33,1980,Hotell,,,,,,8317,,,8317,29
+Västerås,Vallmon 6,Bangatan 1 A,1968,Bostad,,,,84,,,13914,,13998,102
+Västerås,Vapenrocken 1,Regementsgatan 62,1963,Bostad,,441,,114,,,19182,2,19739,
+Finland,Hyvinkää,Veikkarinkatu 7,1981,Handel,,,2645,,,,,,2645,
+Finland,Hämeenlinna,Tampereentie 169,1970/1978,Handel,,,5840,,,,,,5840,
+Finland,Hämeenlinna,Linnaniemenkatu 1,2019,Bostad,,,,,,,469,,469,
+Finland,Joensuu,Voimatie 16,1999,Handel,,,8282,,,,,,8282,
+Finland,Keminmaa,Joulantie 1–3,2001/2002,Handel,,,12337,,,,,,12337,
+Finland,Kotka,Ristikalliontie 41,2014,Handel,,,3100,,,,,,3100,
+Finland,Koupio,Leväsentie 2 B,2006,Handel,,,19808,,,,,,19808,
+Finland,Kouvola,Taitajantie 4,1967/1986,Handel,,,3800,,,,,,3800,
+Finland,Kuopio,Leväsentie 33,2010,Handel,,,7770,,,,,,7770,
+Finland,Kuusamo,Loumantie 1–3,1990,Handel,,,12617,,,,,,12617,
+Finland,Kuusamo,Ouluntaival 1,1978,Handel,,,3718,,,,,,3718,
+Finland,Lahti,Ajokatu 261,2008,Handel,,,7947,,,,,,7947,
+Finland,Lappeenranta,Myllymäenkatu 6,2006,Handel,,,4400,,,,,,4400,
+Finland,Mäntsälä,Mäntsäläntie 1,1989,Handel,,,3384,,,,,,3384,
+Finland,Nokia,Välikatu 13,2020,Bostad,,,,,,,750,,750,
+Finland,Närpes,Yhdistyksentie 3,2017,Handel,,,2513,,,,,,2513,
+Finland,Oulu,Mallastie 30–32 A & B,2020,Bostad,,,,,,,3264,,3264,
+Finland,Oulu,Tietolinja 9,2018,Bostad,,,,,,,2003,,2003,
+Finland,Oulu,Mallastie 30–32 C,2020,Bostad,,,,,,,1706,,1706,
+Finland,Oulu,Talatie 2,2019,Bostad,,,,,,,734,,734,
+Finland,Oulu,Ukkoherrantie 2 C,2018,Bostad,,,,,,,570,,570,
+Finland,Oulu,Ukkoherrantie 2 D,2018,Bostad,,,,,,,406,,406,
+Finland,Oulu,Satamatie 2–4,2019,Bostad,,,,,,,364,,364,
+Finland,Oulu,Ukkoherrantie 2 B,2017,Bostad,,,,,,,268,,268,
+Finland,Oulu,Limingantie 4,2020,Bostad,,,,,,,81,,81,
+Finland,Pirkkala,Kauppiaankatu 17 A & 21 C,2020,Bostad,,,,,,,2294,,2294,
+Finland,Raisio,Kauppakaju 2,1968,Handel,,,5504,,,,,,5504,
+Finland,Riihimäki,Käräjäkatu 8,2019,Bostad,,,,,,,198,,198,
+Finland,Tampere,Hataanpään Valtatie 42,1997,Handel,,,12412,,,,,,12412,
+Finland,Tampere,Puistokuja 32,2005,Handel,,,5865,,,,,,5865,
+Finland,Tampere,Tesoman Valtatie 31,2019,Bostad,,,,,,,3078,,3078,
+Finland,Tampere,Tesoman Valtatie 29,2020,Bostad,,,,,,,3078,,3078,
+Finland,Tampere,Fleminginkatu 5,2019,Bostad,,,,,,,1969,,1969,
+Finland,Tampere,Ruopionkatu  6A-B,2011,Bostad,,,,,,,1555,,1555,
+Finland,Tampere,Takamaanrinne 9 B,2019,Bostad,,,,,,,1381,,1381,
+Finland,Tampere,Takamaanrinne 9 C,2019,Bostad,,,,,,,1381,,1381,
+Finland,Tampere,Ruopionkatu 6 C-D,2011,Bostad,,,,,,,1203,,1203,
+Finland,Tampere,Isokuusenkatu 47,2020,Bostad,,,,,,,1134,,1134,
+Finland,Tampere,Männistönkatu 2,2019,Bostad,,,,,,,769,,769,
+Finland,Tampere,Tervaskatu 4,2020,Bostad,,,,,,,66,,66,
+Finland,Tampere,Takamaanrinne 14,2020,Bostad,,,,,,,44,,44,
+Finland,Tampere,Kohmankaari 9,2018,Bostad,,,,,,,44,,44,
+Finland,Tampere,Takamaanrinne 16,2020,Bostad,,,,,,,44,,44,
+Finland,Turku,Suksikuja 2,2019,Bostad,,,,,,,2594,,2594,
+Finland,Turku,Fatabuurinkatu 2 B,2020,Bostad,,,,,,,2287,,2287,
+Finland,Turku,Fatabuurinkatu 2 A,2020,Bostad,,,,,,,2235,,2235,
+Finland,Turku,Kalastajankatu 3,2017,Bostad,,,,,,,547,,547,
+Finland,Turku,Fleminginkatu 7,2020,Bostad,,,,,,,371,,371,
+Finland,Vaasa,Hietalahdenkatu 13 B,1948,Bostad,,,,,,,7224,,7224,
+Finland,Vanda,Härkähaantie 16,,Övrigt,,,,,,,,,,
+Finland,"SATO Oyj, Flera fastigheter",,,Bostad,,,,,,,385014,,385014,
+Gävle,Hemsta 14:2,Skolgången 1,1974,Handel,,,4100,,,,,,4100,13
+Gävle,Hemsta 14:3,Skolgången 3,1983,Handel,,,1448,,,,,,1448,5
+Gävle,Holmsund 11:1 mfl,Korsnäsvägen 104 A,1929,Bostad,,,,,,,1456,50,1506,2
+Gävle,Holmsund 7:6,"Holmsundsvägen 7, 17–29, (Ojämna Nr)",1929,Bostad,,,,,,,3002,8,3010,16
+Gävle,"Kastet 8:1, 12:1 mfl",Forskarvägen 27 mfl,1929,Bostad,,777,57,160,,,13166,2121,16281,76
+Gävle,Lillhagen 5:3,Torkarvägen 10,1946,Bostad,,,,14,,,3029,26,3069,16
+Gävle,Norr 18:6,Hattmakargatan 11,1985,Bostad,,42,408,,,,2641,385,3476,40
+Gävle,Norr 27:2,Nygatan 40,1929,Bostad,,127,480,,,,2185,67,2859,31
+Gävle,Söder 58:7,Kaserngatan 65,1969,Bostad,,,933,347,,,2281,6,3567,35
+Gävle,Sörby 10:9,Falkvägen 5 A,1994,Bostad,,,,,,,512,,512,6
+Gävle,Valbo-Backa 6:12,Johanneslötsvägen 6,1981,Hotell,,,,,,7382,,,7382,33
+Karlstad,Anden 9,Långgatan 65,1983,Bostad,,,,,,,1472,92,1564,26
+Karlstad,Braxen 34,Nygatan 1,1944,Bostad,,,322,27,,,1198,521,2067,23
+Karlstad,Druvan 1,Drottninggatan 22,1929,Bostad,,,459,,,601,1443,80,2583,43
+Karlstad,Ekorren 9,Sandbäcksg 5/S Klaragatan 1,1929,Bostad,,715,46,,,,1811,,2572,30
+Karlstad,Furan 5,Gillbergsgatan 3,1951,Bostad,,,119,,,,1710,,1829,28
+Karlstad,Furan 7,Jössegatan 3,1968,Bostad,,,,,,,925,97,1022,16
+Karlstad,Granatkastaren 4,Artillerigatan 1,1945,Bostad,,,,,,,748,,748,9
+Karlstad,Gruvan 12,Västra Kanalgatan 3,1991,Bostad,,,126,,,,2525,,2651,47
+Karlstad,Gruvan 2,Östra Kyrkogatan 4,1929,Bostad,,,,,,,1064,102,1166,18
+Karlstad,Grävlingen 3,Herrhagsgatan 43,1929,Bostad,,,138,,,,1018,32,1188,18
+Karlstad,Höken 1,Hamngatan 16,1929,Hotell,,,,,,5890,,,5890,65
+Karlstad,Pilbågen 1,Sandelsgatan 2 A,1942,Bostad,,,,,,,2184,,2184,24
+Karlstad,Registratorn 1,Norra Allén 26 A,1949,Bostad,,,,,,,502,56,558,7
+Karlstad,Registratorn 8,Norra Allén 30 A,1948,Bostad,,,,12,,,456,61,529,6
+Karlstad,Registratorn 9,Norra Allén 28 A,1946,Bostad,,100,,,,,466,29,595,7
+Karlstad,Spiran 1–6,Lignellsgatan 1,1939,Bostad,,,95,,,,4456,145,4696,61
+Karlstad,Trätälja 11,Drottningg 37/Pihlgrensgatan 4,1959,Bostad,,,259,,,,4567,35,4861,80
+Karlstad,Tusenskönan 1,Älvdalsgatan 8,1950,Bostad,Ja,,69,,,,1288,,1357,21
+Karlstad,Väduren 3,Rudsvägen 1,1942,Bostad,,,,,,,1344,54,1398,18
+Luleå,Skorpionen 9,Hummergatan 8,1978,Handel,,,1800,,,,,,1800,8
+Sundsvall,Aeolus 1,Nybrogatan 19,1944,Bostad,,,501,32,,,957,,1490,13
+Sundsvall,Bredsand 1:3 mfl,Appelbergsvägen 1 A,1950,Bostad,,,,158,,,7127,119,7404,29
+Sundsvall,Bredsand 1:4 mfl,"Appelbergsv. 14, 16, 18",1950,Bostad,,,,,,,4479,3,4482,18
+Sundsvall,Dingersjö 28:27 mfl,Appelbergsvägen 26,1989,Bostad,,,,37,,,9464,56,9557,40
+Sundsvall,Dingersjö 3:131 mfl,Bergsvägen 3,1964,Bostad,,16,,287,,,21208,2783,24294,80
+Sundsvall,Fliten 10,Skolhusallén 7,1990,Kontor,,3059,,5,,,,36,3100,30
+Sundsvall,Fliten 11,Rådhusgatan 39 A,1992,Bostad,,272,,66,,,3371,,3709,44
+Sundsvall,Kvissle 2:53 & 2:43,Affärsgatan 26 A-D,1962,Bostad,,,,,,,1468,,1468,5
+Sundsvall,Kvissle 22:2 & 39:1,Affärsgatan 22,1968,Bostad,,87,137,75,,,6416,45,6760,19
+Sundsvall,Lagmannen 10,Esplanaden 18,1962,Bostad,,757,240,,,,3985,957,5939,49
+Sundsvall,"Nolby 1:48, 40:1, 1:108",Affärsgatan 20,1983,Bostad,,998,,62,,,4097,725,5882,20
+Sundsvall,Nolby 3:268,Brovägen 9,1988,Bostad,,,,,,,997,,997,4
+Sundsvall,Nolby 40:2,Affärsgatan 18,1964,Bostad,,,1071,6,,,2243,130,3450,10
+Sundsvall,Nolby 41:3 & 37:1,Affärsgatan 14,1974,Bostad,,,1006,5,,,5328,43,6381,21
+Östersund,Traktorn 5,Fagerbacken 65,1994,Handel,,,3216,,,,,,3216,20
+Norge,Bærum 3024–81/16,Dønskiveien 6 A-E,1970,Bostad,,,,,,,2614,,2614,
+Norge,Elverum 13/1059/0/1,Hamarvegen 112,2010,Övrigt,,,,,16400,,,,16400,
+Norge,Oslo 230/397,Lakkegata 3,1983,Bostad,,,,,,,8551,,8551,
+Norge,Trondheim 5001/416/105,Hans Nissens gate 3 och Skolegata 5,2016,Bostad,,,,,,,3577,,3577,
